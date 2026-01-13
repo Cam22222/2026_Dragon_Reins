@@ -1,4 +1,4 @@
-#Controller Design Document 
+# Controller Design Document 
 
 ### Target Goals For New Controller (can be changed with new ideas or remove with potential problems)
 - Add flexable comfortable material to increase Ergonomics and How the controller feels in the hands
