@@ -11,7 +11,9 @@
 
 ## NEW CONTROLLER Components (Operator)
 
-
+### IDEAS
+- TMR electromagnetic joysticks (Better Accuracy/Percision and better battery life compared to hall effect
+- 
 ### Gampad Tester
 https://hardwaretester.com/gamepad
 (Has better Circularity Control) https://www.hlplanet.com/gamepad-tester/
