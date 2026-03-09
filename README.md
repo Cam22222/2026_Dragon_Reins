@@ -6,25 +6,26 @@ Repo for the Hackbots custom driver controller
 - Razer Mechanical Switches Green Clicky Switch Gen-3
 - Rasberry Pi Pico 2
 
+
 ## Left Stick
 | TMR Joystick Pin | Wire Color | Rasberry Pi Pico 2 Pin |
 | ----------------- | --------------- | ----------------- |
-| 1 | Black | GND |
-| 2 | Red | VCC |
-| 4 | Blue | A1 |
-| 6 | Yellow | A0 |
-| 9 | Orange | 6 |
-| 10 | White | GND |
+| 1 | Black | GND - Left Under GP9 |
+| 2 | Blue | OUT |
+| 3 | Red | VCC |
+| 4 | Red | VCC |
+| 5 | Blue | OUT |
+| 6 | Black | GND - Left Under GP13|
 
 ## Right Stick
 | TMR Joystick Pin | Wire Color | Rasberry Pi Pico 2 Pin |
 | ----------------- | --------------- | ----------------- |
-| 1 | Black | GND  - Right | 
-| 2 | Red | VCC |
-| 4 | Blue | A3 |
-| 6 | Yellow | A2 |
-| 9 | Orange | 16 |
-| 10 | White | GND - Left Bottom |
+| 1 | Black | GND - Right Under GP22 | 
+| 2 | Blue | OUT |
+| 3 | Red | VCC |
+| 4 | Red | VCC |
+| 5 | Blue | OUT |
+| 6 | Black | GND - Right Under GP18|
 
 ## Button Switches
 | Button Pin | Wire Color | Rasberry Pi Pico 2 Pin |
